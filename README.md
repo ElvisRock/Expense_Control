@@ -1,5 +1,8 @@
-# Expense_Control
-Expense Management for a Cleaning Company
+# Expense Control
+
+_Expense Management for a Cleaning Company_
+
+![Cleaner.png](image/Cleaner.png)
 
 Uma planilha como essa pode trazer diversos ganhos para uma empresa de porte pequeno, especialmente quando se trata do controle e do lançamento dos dados operacionais e financeiros. A seguir, destaco os principais benefícios:
 
